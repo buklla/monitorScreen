@@ -20,6 +20,7 @@ export class AppComponent {
         }
       ]
     },
+    
     {
       "featureType": "poi",
       "stylers": [
