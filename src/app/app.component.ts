@@ -8,6 +8,42 @@ import { trigger,style,transition,animate,keyframes,query,stagger } from '@angul
   
 })
 export class AppComponent {
-  latitude = 51.678418;
-  longitude = 7.809007;
+  latitude = 28.541853;
+  longitude = -81.379569;
+  styles= [
+    {
+      "featureType": "administrative",
+      "elementType": "geometry",
+      "stylers": [
+        {
+          "visibility": "off"
+        }
+      ]
+    },
+    {
+      "featureType": "poi",
+      "stylers": [
+        {
+          "visibility": "off"
+        }
+      ]
+    },
+    {
+      "featureType": "road",
+      "elementType": "labels.icon",
+      "stylers": [
+        {
+          "visibility": "off"
+        }
+      ]
+    },
+    {
+      "featureType": "transit",
+      "stylers": [
+        {
+          "visibility": "off"
+        }
+      ]
+    }
+  ]
 }

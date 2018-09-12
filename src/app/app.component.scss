@@ -6,7 +6,7 @@
     z-index: 2;
     position: absolute;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
-
+    font-family: 'Roboto', sans-serif;
 }
 .left-Menu-Header{
     height: 80px;
@@ -19,9 +19,57 @@
     height: 100%;
     float: left;
 }
+
 .left-Menu-Header-Score{
     height: 100%;
+    color: #f5f5f5db;
 }
+.left-Menu-Driver-Properties{
+    height: 27px;
+    font-size: 10px;
+    color: #b3b3b3;
+}
+.left-Menu-List-Drivers{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.left-Menu-Drivers{
+    box-sizing: border-box;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    margin-bottom: 10px;
+    height: 60px;
+    background-color: white;
+}
+.left-Menu-Drivers-Numbers{
+    height: 100%;
+}
+.left-Menu-Driver-Circle{
+    position: absolute;
+    top: 12px;
+    left: 8px;
+    height: 29px;
+    width: 29px;
+    border-radius: 100%;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+.left-Munu-Drivers-Panel{
+    height: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.scoreCircle{
+    border-radius: 100px;
+    border: solid 3px #f1f1f1;
+    height: 26px;
+    width: 26px;
+    line-height: 26px;
+    color: #868686;
+}
+// global css 
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
 .middleV {
     position: relative;
     top: 50%;
@@ -29,6 +77,151 @@
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+.green{
+    background-color: #A8CF45;
+}
+.purple{
+    background-color: #7A75B5;
+}
+.orange{
+    background-color: #F58634;
+}
+.grey{
+    background-color: #96989A;
+}
+.pink{
+    background-color: #EC268F;
+}
+.lightblue{
+    background-color: #0098DA;
+}
+.yellow{
+    background-color: #FFCC29;
+}
+.darkblue{
+    background-color: #3E4095;
+}
+.tirquase{
+    background-color: #57A695;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.floatL{
+    float: left;
+}
+.floatR{
+    float: right;
+}
+.f11{
+    font-size: 11px;
+}
+.f12{
+    font-size: 12px;
+}
+.f13{
+    font-size: 13px;
+}
+.f14{
+    font-size: 14px;
+}
+.f15{
+    font-size: 15px;
+}
+.f33{
+    font-size: 33px;
+}
+.fw100{
+    font-weight: 100;
+}
+.fw200{
+    font-weight: 200;
+}
+.fw500{
+    font-weight: 500;
+}
+.fw600{
+    font-weight: 600;
+}
+.fw700{
+    font-weight: 700;
+}
+.pr2{
+    padding-right: 2px;
+}
+.pr3{
+    padding-right: 3px;
+}
+.pr4{
+    padding-right: 4px;
+}
+.pr5{
+    padding-right: 5px;
+}
+.pr6{
+    padding-right: 6px;
+}
+.pr7{
+    padding-right: 7px;
+}
+.pr8{
+    padding-right: 8px;
+}
+.pr9{
+    padding-right: 9px;
+}
+.pr10{
+    padding-right: 10px;
+}
+.pr4{
+    padding-right: 4px;
+}
+.pt2{
+    padding-top: 2px;
+}
+.pt3{
+    padding-top: 3px;
+}
+.pt4{
+    padding-top: 4px;
+}
+.pt5{
+    padding-top: 5px;
+}
+.ml2{
+    margin-left: 2px;
+}
+.ml3{
+    margin-left: 3px;
+}
+.ml4{
+    margin-left: 4px;
+}
+.ml5{
+    margin-left: 5px;
+}
+.ml10{
+    margin-left: 10px;
+}
+.ml15{
+    margin-left: 15px;
+}
+.mr10{
+    margin-right: 10px;
+}
+.middleH{
+    margin: 0 auto;
+    position: relative;
+}
+.fcolorMain{
+  color: #474747;
+}
+.fcolorSecond{
+    color: #757575;
+}
+// end global css
 agm-map{
     height: 100%;
 }
