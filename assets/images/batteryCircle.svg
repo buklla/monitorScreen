@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 127.2906265 120.0001984" height="45px" style="enable-background:new 0 0 127.2906265 120.0001984;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.3;clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#7670B3;}
+	.st1{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#7670B3;}
+	.st2{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{clip-path:url(#SVGID_2_);fill:none;stroke:#BCBDC0;stroke-width:0.216;stroke-miterlimit:2.613126;}
+	.st4{clip-path:url(#SVGID_2_);fill:none;stroke:#6D6E70;stroke-width:0.5;stroke-miterlimit:2.613126;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-1" y="-1" width="129.2940063" height="122.0001984"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st0" d="M59.9998016,10.828598c27.1565018,0,49.1717987,22.0147018,49.1717987,49.1711998
+		s-22.0152969,49.1718025-49.1717987,49.1718025S10.8285999,87.1562958,10.8285999,59.9997978
+		S32.8432999,10.828598,59.9998016,10.828598 M59.9998016,0c33.1366959,0,60.0003967,26.8630981,60.0003967,59.9997978
+		s-26.8637009,60.0004005-60.0003967,60.0004005S0,93.1364975,0,59.9997978S26.8631001,0,59.9998016,0z"/>
+	<path class="st1" d="M59.9998016,0h0.0002975v10.828598h-0.0002975c-27.1565018,0-49.1712036,22.0147018-49.1712036,49.1711998
+		s22.0146999,49.1718025,49.1712036,49.1718025s49.1715012-22.0149994,49.1717987-49.1715012h10.828598
+		c-0.0002975,33.1366959-26.8637009,60.0000992-60.0003967,60.0000992S0,93.1364975,0,59.9997978S26.8631001,0,59.9998016,0"/>
+	<circle class="st2" cx="114.5859985" cy="60.0000992" r="12.5999985"/>
+	<circle class="st3" cx="114.5859985" cy="60.0000992" r="12.5999985"/>
+	<circle class="st1" cx="114.5859985" cy="60.0000992" r="9.7537003"/>
+	<circle class="st4" cx="114.5859985" cy="60.0000992" r="9.7537003"/>
+</g>
+</svg>
